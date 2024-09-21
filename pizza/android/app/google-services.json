@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76306597104",
+    "project_id": "pizza-delivery-c3f7b",
+    "storage_bucket": "pizza-delivery-c3f7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76306597104:android:e5230d5cd3f3762d012e35",
+        "android_client_info": {
+          "package_name": "com.example.pizza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1zuko-ion0qDdGIPWOYBi3KeIKn5thFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
